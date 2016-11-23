@@ -874,6 +874,7 @@ li {
 	transition: transform  0.5s;
 	-webkit-transition-timing-function: cubic-bezier(0.55,0,0.1,1);
 	transition-timing-function: cubic-bezier(0.55,0,0.1,1);
+  /*transition-timing-function: cubic-bezier(.35,0,.17,1);*/
 }
 
 .menu-wrap a {
