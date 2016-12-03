@@ -418,18 +418,16 @@ textarea {
    ========================================================================== */
 @font-face {
   font-family: 'Maison Neue Book';
-  src: url('../fonts/maisonneuebook.ttf')  format('truetype');
+  src: url('../fonts/MaisonNeueWEB-Book.woff2')  format('woff2'),
+  url('../fonts/MaisonNeueWEB-Book.woff')  format('woff');
 }
 
 @font-face {
   font-family: 'Maison Neue Mono';
-  src: url('../fonts/maisonneuemono.ttf')  format('truetype');
+  src: url('../fonts/MaisonNeueWEB-Mono.woff2')  format('woff2'),
+  url('../fonts/MaisonNeueWEB-Mono.woff')  format('woff');
 }
 
-@font-face {
-  font-family: 'Maison Neue Bold';
-  src: url('../fonts/maisonneuebold.ttf')  format('truetype');
-}
 
 /** {
   font-family: "Maison Neue Book", Helvetica;
