@@ -579,7 +579,7 @@ p {
   content: "";
   display: block;
   position: absolute;
-  margin-bottom: -.5em;
+  margin-bottom: -16px;
   bottom: 46%;
   left: 0;
   width: 100%;
